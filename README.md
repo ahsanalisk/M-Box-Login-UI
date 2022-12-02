@@ -1,27 +1,16 @@
-<<<<<<< HEAD
+
 # login_Screen_UI
 ![Login-UI](Screenshots/loginUI.jpg)
 
 A new Flutter project. 
 This project is all about designing and Implimenting Code to get Login Screen with a modern UI using the latest features offered by Flutter. In a total of three parts we will create a unique background using Flutter and Dart, design appealing input fields for the best user experience and include eye-caching UI for a smooth feeling In this Project basically Three  design UI Screen.
 
-# Screenshots
+- Login Screen
+- Forgot Password Screen
+- Create a Account
 
-## Login Screen
 
 
-- ![Login-UI](Screenshots/login.png)
-
-## Forget Password
-- ![Forget Password](Screenshots/forget_password.png)
-
-## Create a Account Screen
-
-- ![create a account](Screenshots/createAccount.png)
-=======
-# login_Screen_ui
-![Login-UI](https://drive.google.com/file/d/1AIhVvu51tlHIwnfHLpyNSULseivZLBde/view?usp=share_link)
->>>>>>> 4a5138d0651563caf36f72019b042d3bac160e9e
 
 
 ## Getting Started
