@@ -1,5 +1,5 @@
 
-# login_Screen_UI
+# 🖥 login_Screen_UI
 ![Login-UI](Screenshots/loginUI.jpg)
 
 A new Flutter project. 
@@ -8,6 +8,17 @@ This project is all about designing and Implimenting Code to get Login Screen wi
 - Login Screen
 - Forgot Password Screen
 - Create a Account
+
+## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Outrageous Orange |  #ff6633 |
+| White |  #FFFFFF |
+| Blacl |  #000000 |
+
+
+
 
 
 
@@ -20,6 +31,13 @@ This project is a starting point for a Flutter application.
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+
+
+## 🔗 Social Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsansoomro/)
+
+
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
