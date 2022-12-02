@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # login_Screen_UI
 ![Login-UI](Screenshots/loginUI.jpg)
 
@@ -17,6 +18,10 @@ This project is all about designing and Implimenting Code to get Login Screen wi
 ## Create a Account Screen
 
 - ![create a account](Screenshots/createAccount.png)
+=======
+# login_Screen_ui
+![Login-UI](https://drive.google.com/file/d/1AIhVvu51tlHIwnfHLpyNSULseivZLBde/view?usp=share_link)
+>>>>>>> 4a5138d0651563caf36f72019b042d3bac160e9e
 
 
 ## Getting Started
