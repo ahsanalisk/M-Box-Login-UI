@@ -9,7 +9,7 @@ This project is all about designing and Implimenting Code to get Login Screen wi
 
 - Login Screen
 - Forgot Password Screen
-- Create a Account
+- Create a Account Screen
 
 ## Color Reference
 
