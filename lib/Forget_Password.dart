@@ -58,7 +58,7 @@ class MyApp extends StatelessWidget {
                   ),
                   const Center(
                       child: Text(
-                    "Login ",
+                    "Forget Password ",
                     style: TextStyle(
                         fontSize: 24,
                         fontFamily: 'Rubik Medium',

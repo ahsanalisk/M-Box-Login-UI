@@ -58,7 +58,7 @@ class MyApp extends StatelessWidget {
                   ),
                   const Center(
                       child: Text(
-                        "Login ",
+                        "Create a Account ",
                         style: TextStyle(
                             fontSize: 24,
                             fontFamily: 'Rubik Medium',
@@ -186,11 +186,11 @@ class MyApp extends StatelessWidget {
                     height: 50,
                     width: 300,
                     decoration: BoxDecoration(
-                        color: Color(0xffF9703B),
+                        color: Color(0xfff8703c),
                         borderRadius: BorderRadius.circular(10)),
                     child: const Center(
                       child: Text(
-                        'Log In',
+                        'Create a Account',
                         style: TextStyle(
                             fontSize: 18,
                             fontFamily: 'Rubik Medium',
