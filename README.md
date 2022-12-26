@@ -17,7 +17,7 @@ This project is all about designing and Implimenting Code to get Login Screen wi
 | ----------------- | ------------------------------------------------------------------ |
 | Outrageous Orange |  #ff6633 |
 | White |  #FFFFFF |
-| Blacl |  #000000 |
+| Black |  #000000 |
 
 
 
